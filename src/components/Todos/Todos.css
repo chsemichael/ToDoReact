@@ -1,0 +1,11 @@
+#categories-container {
+    min-height: 81vh;
+}
+
+.category-item {
+    width: 33%;
+}
+
+.create-button {
+    margin-top: 56px;
+}
